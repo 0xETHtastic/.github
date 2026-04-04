@@ -48,6 +48,9 @@ ETHastic evvm info
     {
       "name": "P2PSwap",
       "address": "0x5A389465baD0AEaBf8601F60F905a5cc79140490"
+    },
+    {
+      "CctpService": "0x166b4207da35740e38e55B09819fdFAdF27401cD"
     }
   ]
 }
