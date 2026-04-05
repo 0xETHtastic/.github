@@ -55,3 +55,18 @@ ETHastic evvm info
   ]
 }
 ```
+
+
+# CCTP TX
+## ARC
+{
+  "status": "done",
+  "txHashService": "0x1f6ca73e3e648de5d1b720c071a6708d5123839d1d9142697dd4cf5f9e846695",
+  "withdrawEvvmTxHash": "0x7c8b187fd0591b4088b20bda515b77bf4cc64003413e6ad928d9b647c39f9e27",
+  "approveTxHash": "0x2cfeb7c40296554601411962a53502c1e8cbbc2d70f2d8d2be49111595c74d5a",
+  "burnTxHash": "0xebc0798e0cd0e1ffd752561b6c7a3eb0d9d03322103d97a64cfdc48d7d612e2a"
+}
+# Arbitrum
+{
+  "mintTxHash": "0x40959a6a384010205dfde771f353d8a1153d1091ddb5ef6ed0a3317c4c8a41c9"
+}
